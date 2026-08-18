@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheMudkipServer.aternos.me",
+    "ip": "sprat.aternos.host:52311",
     "port": 52311,
     "version": "",
     "try-creative": false
