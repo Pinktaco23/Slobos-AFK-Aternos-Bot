@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sprat.aternos.host",
+    "ip": "aardvark.aternos.host",
     "port": 52311,
     "version": "",
     "try-creative": false
